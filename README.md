@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Oleander Hawthorne
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning Html, CSS, and Javascript
+- 📫 How to reach me o.m.f.hawthorne@gmail.com
